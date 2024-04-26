@@ -30,4 +30,6 @@ Joyse, Kristen; Stein, Michael; Horton, Benjamin; Kopp, Robert (2024), “Multi-
 | Script Name | Description |
 | --- | --- |
 | `runGenerateData_studentt.m` | Script to fit Student's t-distribtuion to detrended tide gauge data and determine parameter values of Student's t-distribution that fits the data | 
-
+| `ESL&GS_S_MCMC.ipynb` | Main script to run the stationary case of the model on synthetic data generated within the code | 
+| `ESL&GS_S_MCMC_Mattapoisett` | Script used to run the model on case study data from the Woods Hole tide gauge and geologic data from Castagno et al. (2021)| 
+| `ESL&GS_S_MCMC_Cheesequake` | Script used to run the model on case study data from the Battery tide gauge and geologic data from Joyse et. al (in review)| 
