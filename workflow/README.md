@@ -1,1 +1,1 @@
-## This is the directory to place scripts or instructions in for recreating your experiment 
+## This directory houses the main scripts used to run the analyses performed for this paper.
