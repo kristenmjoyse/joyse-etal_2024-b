@@ -1,4 +1,4 @@
-# Joyse et al. in review b
+# Joyse et al. 2024 b
 
 **Multi-century geological data thins the tail of observationally based extreme sea level curves**
 
